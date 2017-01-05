@@ -4,7 +4,6 @@ div.col-sm-4{
 	
 }
 html, body {
-  background-color: white;
   width: auto !important;
   overflow-x: hidden !important;
 }
@@ -16,7 +15,8 @@ html, body {
 	margin-right: auto;
 }
 .carousel-caption{
-	font-size: 130%;
+	font-size: 150%;
+	font-family: "Times New Roman";
 	font-weight: bold;
 	left: 5%;
 	text-align: left;
