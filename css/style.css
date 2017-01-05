@@ -1,3 +1,6 @@
 body{
 	background-color: black;
 }
+div.col-sm-4{
+	margin-top: 20px;
+}
