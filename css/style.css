@@ -4,8 +4,8 @@ div.col-sm-4{
 	
 }
 .homepage-image{
-   	-webkit-filter: invert(0.1); /* Safari */
-    filter: invert(0.1);
+    -webkit-filter: invert(0.2); /* Safari */
+    filter: invert(0.2);
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -20,5 +20,8 @@ div.col-sm-4{
 	color: white;
 }
 .inner{
-	margin: 2px;
+	margin: 1px;
+}
+.container-fluid{
+	padding: 0px;
 }
