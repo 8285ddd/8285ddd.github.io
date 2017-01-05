@@ -3,6 +3,10 @@ div.col-sm-4{
 	padding: 0px;
 	
 }
+html, body {
+  width: auto !important;
+  overflow-x: hidden !important;
+}
 .homepage-image{
     -webkit-filter: invert(0.1); /* Safari */
     filter: invert(0.1);
@@ -24,4 +28,7 @@ div.col-sm-4{
 }
 .container-fluid{
 	padding: 0px;
+}
+.c{
+	width: 100%;
 }
