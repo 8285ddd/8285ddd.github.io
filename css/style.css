@@ -4,6 +4,7 @@ div.col-sm-4{
 	
 }
 html, body {
+  background-color: white;
   width: auto !important;
   overflow-x: hidden !important;
 }
