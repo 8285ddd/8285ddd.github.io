@@ -3,4 +3,5 @@ body{
 }
 div.col-sm-4{
 	margin-top: 20px;
+	border: 1px solid black;
 }
