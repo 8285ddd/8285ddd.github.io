@@ -4,8 +4,7 @@ div.col-sm-4{
 	
 }
 .homepage-image{
-    -webkit-filter: invert(0.2); /* Safari */
-    filter: invert(0.2);
+   
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
